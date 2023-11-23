@@ -1,0 +1,17 @@
+.course-details-list-items {
+  padding: 20px;
+  min-height: 100vh;
+}
+
+.Course-description-container {
+  display: flex;
+}
+
+.description-container {
+  padding: 20px;
+}
+
+.course-description {
+  font-size: 25px;
+  line-height: 50px;
+}
